@@ -27,7 +27,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.project.linuxdistro.CardItem
+import com.project.linuxdistro.pages.CardItem
 import com.project.linuxdistro.R
 
 @Composable

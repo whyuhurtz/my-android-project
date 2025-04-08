@@ -1,4 +1,4 @@
-package com.project.linuxdistro
+package com.project.linuxdistro.pages
 
 data class CardItem (
     val label : String,
